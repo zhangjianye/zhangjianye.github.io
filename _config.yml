@@ -26,7 +26,7 @@ github_username:  zhangjianye
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
