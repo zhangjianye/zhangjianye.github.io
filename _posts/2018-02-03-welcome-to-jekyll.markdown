@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title:  "Welcome to Jekyll!"
 date:   2018-02-03 23:38:22 +0800
 categories: jekyll update
