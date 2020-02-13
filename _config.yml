@@ -28,7 +28,7 @@ twitter_username: jerryzhanjy
 github_username:  zhangjianye
 
 # Build settings
-theme: jekyll-theme-midnight
+remote-theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
