@@ -30,7 +30,7 @@ twitter_username: jerryzhanjy
 github_username:  zhangjianye
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
