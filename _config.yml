@@ -28,9 +28,11 @@ twitter_username: jerryzhanjy
 github_username:  zhangjianye
 
 # Build settings
-remote-theme: jekyll-theme-hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
