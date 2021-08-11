@@ -1,3 +1,12 @@
+---
+layout: post
+title: Mental models
+date: 2021-08-11
+tags: Just Javascript
+---
+
+> from https://justjavascript.com/
+
 看看这段代码
 ```javascript
 let a = 10;
