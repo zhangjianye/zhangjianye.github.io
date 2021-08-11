@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mental models
+title: 01.Mental models
 date: 2021-08-11
 tags: JustJavascript
 ---
