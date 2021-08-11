@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Equality of values
+title: 06.Equality of values
 date: 2021-08-11
 tags: JustJavascript
 ---

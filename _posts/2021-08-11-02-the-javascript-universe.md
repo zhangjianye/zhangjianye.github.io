@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The javascript universe
+title: 02.The javascript universe
 date: 2021-08-11
 tags: JustJavascript
 ---

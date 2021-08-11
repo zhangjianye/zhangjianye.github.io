@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Counting the values I
+title: 04.Counting the values I
 date: 2021-08-11
 tags: JustJavascript
 ---

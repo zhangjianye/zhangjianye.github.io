@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Values and variables
+title: 03.Values and variables
 date: 2021-08-11
 tags: JustJavascript
 ---
