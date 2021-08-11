@@ -1,3 +1,4 @@
+---
 layout: post
 title: Values and variables
 date: 2021-08-11

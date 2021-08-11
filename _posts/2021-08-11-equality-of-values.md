@@ -1,3 +1,4 @@
+---
 layout: post
 title: Equality of values
 date: 2021-08-11
