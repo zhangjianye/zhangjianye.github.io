@@ -1,11 +1,10 @@
 layout: post
 title: Equality of values
 date: 2021-08-11
-tags: Just Javascript
+tags: JustJavascript
 ---
 
 > from https://justjavascript.com/
-
 
 是时候讨论一下 JavaScript 的相等了！我会告诉你为什么这很重要。
 

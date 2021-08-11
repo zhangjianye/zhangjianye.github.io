@@ -1,11 +1,10 @@
 layout: post
 title: Properties
 date: 2021-08-11
-tags: Just Javascript
+tags: JustJavascript
 ---
 
 > from https://justjavascript.com/
-
 
 让我们认识一下夏洛克-福尔摩斯，一个来自伦敦的世界著名侦探：
 

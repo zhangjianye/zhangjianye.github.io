@@ -1,7 +1,7 @@
 layout: post
 title: Prototypes
 date: 2021-08-11
-tags: Just Javascript
+tags: JustJavascript
 ---
 
 > from https://justjavascript.com/

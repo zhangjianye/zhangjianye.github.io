@@ -1,7 +1,7 @@
 layout: post
 title: Counting the values I
 date: 2021-08-11
-tags: Just Javascript
+tags: JustJavascript
 ---
 
 > from https://justjavascript.com/

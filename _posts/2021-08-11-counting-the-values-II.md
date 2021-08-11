@@ -1,11 +1,10 @@
 layout: post
 title: Counting the values II
 date: 2021-08-11
-tags: Just Javascript
+tags: JustJavascript
 ---
 
 > from https://justjavascript.com/
-
 
 在接着往下之前，让我们先回顾一下我们在 JavaScript 宇宙里的旅程。
 
